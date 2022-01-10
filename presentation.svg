@@ -35,7 +35,7 @@
 				ul {
 				  	line-height: 1.5em;
 				  	width: 100%;
-				 	padding: 15px 25px;
+				 	padding: 25px;
 				}
 				li {
 				  	list-style: none;
