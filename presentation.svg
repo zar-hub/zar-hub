@@ -15,13 +15,13 @@
 						'Segoe UI Emoji';
 					display: flex;
 					flex-direction: column;
-					align-items: left;
+					align-items: center;
 					justify-content: center;
 					margin: 0;
 					width: 100%;
 					color: #fafbfc;
 					background-color: #2b3137;
-					text-align: left;
+					text-align: center;
 					padding: 15px;
 				}
 				h1 {
