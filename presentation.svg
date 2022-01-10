@@ -31,7 +31,21 @@
 					text-shadow: 0 1px 0 #efefef;
 					letter-spacing: 5px;
 				}
-				            
+
+				ul li {
+				  list-style: none;
+				  position: relative;
+				  padding: 3px 0 2px 25px;
+				}
+
+				ul li::before {
+				  content: '*';
+				  position: absolute;
+				  top: 6px;
+				  left: 0;
+				}
+    
+            
 				ul {
 				  	line-height: 1.5em;
 				  	margin: 5px 0 15px;
