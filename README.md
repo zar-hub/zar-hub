@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="background-color:powderblue;">
 	<br>
 		<img src="header.svg" width="800" height="400">
 	<br>
