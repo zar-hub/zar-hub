@@ -33,6 +33,7 @@
 				}
             
 				ul {
+					position: 
 				  	line-height: 1.5em;
 				  	width: 100%;
 				 	padding: 25px;
@@ -40,7 +41,7 @@
 				li {
 				  	list-style: none;
 				  	position: relative;
-				  	padding: 0 0 0 20px;
+				  	padding: 20px;
 					font-size: 20px;
 					text-shadow: 0 1px 0 #efefef;
 					
