@@ -31,7 +31,7 @@
 					text-shadow: 0 1px 0 #efefef;
 					letter-spacing: 5px;
 				}
-				p {
+				li {
 					font-size: 20px;
 					text-shadow: 0 1px 0 #efefef;
 					animation: 1.5s ease 0s normal forwards 1 fadeIn;
@@ -40,7 +40,8 @@
 			<div class="container">
 				<h1>I'm currently studying physics at Trieste university, IT. My interests are:</h1>
 				<ul>
-				  <li>Music, especially guitar</li>
+				  <li>Music</li>
+				  <li>Guitar</li>
 				  <li>Drawing and Art</li>
 				  <li>Coding</li>
 				  <li>Computer Graphic (Blender is awesome)</li>
