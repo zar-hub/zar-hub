@@ -35,10 +35,11 @@
 					font-size: 20px;
 					text-shadow: 0 1px 0 #efefef;
 					animation: 1.5s ease 0s normal forwards 1 fadeIn;
+					color: #2dba4e;
 				}
 			</style>
 			<div class="container">
-				<h1>I'm currently studying physics at Trieste university, IT. My interests are:</h1>
+				<h1>I'm currently studying physics at Trieste university, IT.<br> My interests are:</h1>
 				<ul>
 				  <li>Music</li>
 				  <li>Guitar</li>
