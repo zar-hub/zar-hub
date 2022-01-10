@@ -36,6 +36,18 @@
 					text-shadow: 0 1px 0 #efefef;
 					
 				}
+				            
+				li.triangle::before {
+				  content: "";
+				  position: absolute;
+				  left: 0;
+				  top: 5px;
+				  width: 0;
+				  height: 0;
+				  border-left: 5px solid transparent;
+				  border-right: 5px solid transparent;
+				  border-bottom: 10px solid #f9dd94;
+				}
 			</style>
 			<div class="container">
 				<h1>I'm currently studying physics at Trieste university, IT. My interests are:</h1>
@@ -45,7 +57,7 @@
 				  <li>Drawing and Art</li>
 				  <li>Coding</li>
 				  <li>Computer Graphic (Blender is awesome)</li>
-				  <li>Linux fanboy</li> 
+				  <li>Linux</li> 
 				  <li>Biology and Animals</li> 
 				  <li>Philosofy</li> 
 				</ul>
