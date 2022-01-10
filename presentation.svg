@@ -20,7 +20,6 @@
 					margin: 0;
 					width: 100%;
 					color: #ffffff;
-					background-color: #fc5c7d;
 					text-align: left;
 					padding: 15px;
 				}
