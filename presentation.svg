@@ -19,8 +19,8 @@
 					justify-content: center;
 					margin: 0;
 					width: 100%;
-					color: #333;
-					background: linear-gradient( #fc5c7d, #6a82fb, #05dfd7);
+					color: #ffffff;
+					background-color: #fc5c7d;
 					text-align: left;
 					padding: 15px;
 				}
