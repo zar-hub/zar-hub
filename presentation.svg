@@ -21,7 +21,7 @@
 					width: 100%;
 					color: #fafbfc;
 					background-color: #2b3137;
-					text-align: center;
+					text-align: left;
 					padding: 15px;
 				}
 				h1 {
