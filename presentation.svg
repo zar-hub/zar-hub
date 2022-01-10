@@ -19,6 +19,7 @@
 					justify-content: center;
 					margin: 0;
 					width: 100%;
+					height: 100%;
 					color: #fafbfc;
 					background-color: #2b3137;
 					text-align: left;
