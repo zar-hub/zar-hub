@@ -31,20 +31,6 @@
 					text-shadow: 0 1px 0 #efefef;
 					letter-spacing: 5px;
 				}
-
-				ul li {
-				  list-style: none;
-				  position: relative;
-				  padding: 3px 0 2px 25px;
-				}
-
-				ul li::before {
-				  content: '*';
-				  position: absolute;
-				  top: 6px;
-				  left: 0;
-				}
-    
             
 				ul {
 				  	line-height: 1.5em;
@@ -60,16 +46,8 @@
 					
 				}
 				            
-				li.triangle::before {
-				  content: "";
-				  position: absolute;
-				  left: 0;
-				  top: 5px;
-				  width: 0;
-				  height: 0;
-				  border-left: 5px solid transparent;
-				  border-right: 5px solid transparent;
-				  border-bottom: 10px solid white;
+				ul li::marker {
+				  content: "✅ ";
 				}
 			</style>
 			<div class="container">
