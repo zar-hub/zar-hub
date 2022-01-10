@@ -20,7 +20,7 @@
 					margin: 0;
 					width: 100%;
 					color: #fafbfc;
-					background-color: #2b3137;
+					background-color: linear-gradient( #fc5c7d, #6a82fb, #05dfd7);
 					text-align: left;
 					padding: 15px;
 				}
